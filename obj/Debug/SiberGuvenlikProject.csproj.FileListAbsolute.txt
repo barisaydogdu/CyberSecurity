@@ -1,0 +1,6 @@
+C:\Users\baris\source\repos\SiberGuvenlikProject\SiberGuvenlikProject\obj\Debug\SiberGuvenlikProject.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\SiberGuvenlikProject\SiberGuvenlikProject\bin\Debug\SiberGuvenlikProject.exe.config
+C:\Users\baris\source\repos\SiberGuvenlikProject\SiberGuvenlikProject\bin\Debug\SiberGuvenlikProject.exe
+C:\Users\baris\source\repos\SiberGuvenlikProject\SiberGuvenlikProject\bin\Debug\SiberGuvenlikProject.pdb
+C:\Users\baris\source\repos\SiberGuvenlikProject\SiberGuvenlikProject\obj\Debug\SiberGuvenlikProject.exe
+C:\Users\baris\source\repos\SiberGuvenlikProject\SiberGuvenlikProject\obj\Debug\SiberGuvenlikProject.pdb
